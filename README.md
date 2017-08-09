@@ -1,2 +1,2 @@
 # writeme
-Splash Page
+> share and write with anyone
